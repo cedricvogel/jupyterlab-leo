@@ -1,8 +1,9 @@
-name: jupiterlab-leo
+name: jupyterlab-leo
 channels:
   - conda-forge
 dependencies:
   - python=3.5
+  - jupyterlab
   - ipywidgets
   - IPython
   - numpy
