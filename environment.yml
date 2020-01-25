@@ -1,4 +1,4 @@
-name: example-environment
+name: jupiterlab-leo
 channels:
   - conda-forge
 dependencies:
